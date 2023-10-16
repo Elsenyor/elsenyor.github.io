@@ -5,8 +5,7 @@ const PlaceholderComponent = () => {
     return <div style={{
         background: "red"
     }}><div style={{
-        background: "black",
-        backgroundPositionX 
+        background: "black", 
         color: "green"
     }}>b</div><div>a</div></div>
 }
